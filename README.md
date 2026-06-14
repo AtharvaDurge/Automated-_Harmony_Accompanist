@@ -28,7 +28,6 @@ automated-harmony-accompanist/
 │
 ├── src/
 │   └── main.py              # Main application logic
-│
-├── .gitignore               # Prevents tracking temporary cache files
+│               
 ├── README.md                # Project documentation
 └── Requirements.txt         # Project dependencies
